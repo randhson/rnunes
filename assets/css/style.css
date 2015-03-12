@@ -1,5 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Raleway:400,300,500,700,800);
 @import url(http://fonts.googleapis.com/css?family=Lobster);
+@import url(http://fonts.googleapis.com/css?family=Fjalla+One);
 
 /*!
  * My Portfolio v1.0.0
@@ -343,7 +344,7 @@ textarea.form-control {
 /* ---------------------------------------------- */
 
 #home {
-	background: url(../images/cover.jpg);
+	background: url(../images/header.jpg);
 	background-color: #222;
 	background-attachment: fixed;
 	background-repeat: no-repeat;
@@ -554,7 +555,8 @@ textarea.form-control {
 .navbar-custom .navbar-brand {
 	font-weight: 700;
 	font-size: 22px;
-    font-family: Lobster, cursive;
+	font-family: Fjalla One;
+    /* font-family: Lobster, cursive; */
 }
 
 .navbar-custom .dropdown-menu {
