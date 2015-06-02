@@ -1,2 +1,2 @@
 # rnunes
-An presentation for rnunes.co
+An presentation for www.rnunes.co
